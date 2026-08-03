@@ -8,3 +8,7 @@ We have now made the code for our neural network model publicly available. Going
 
 
 
+
+We sincerely thank the UNETR++ team for their outstanding work, which provided valuable inspiration and a strong foundation for this project.
+
+
